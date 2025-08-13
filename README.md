@@ -6,7 +6,7 @@ Titan-Select is a simple visual atuon selector that works on pros. It is has a s
 
 ### Adding to your project
 
-In the include directory of your pros project, create a folder called titanselect then add the titanselect.hpp file to that folder. Now, your all ready to start using Titan-Select.
+First, download titanselect.hpp, Then, in the include directory of your pros project, create a folder called titanselect then add the titanselect.hpp file to that folder. Now, your all ready to start using Titan-Select.
 
 ### Showcase
 
