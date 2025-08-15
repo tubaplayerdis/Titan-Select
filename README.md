@@ -1,6 +1,6 @@
 # Titan-Select
 
-Titan-Select is a simple visual atuon selector that works on pros. It is has a single header file implementation and can be imported into your project with 2 small steps.
+Titan-Select is a simple visual **atuon selector** that works on [pros](https://pros.cs.purdue.edu/v5/index.html). It is has a single header file implementation and can be imported into your project with 2 small steps.
 
 **NOTE:** Titan-Select uses **LVGL 9**. Make sure you have to latest pros version installed that supports lvgl 9 to use Titan-Select
 
